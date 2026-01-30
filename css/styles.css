@@ -171,7 +171,7 @@ a {
 
 /* Backgrounds */
 .bk-showcase {
-	background: url('/Entrevista\ en\ estudio\ de\ grabación.png');
+	background: url('./Entrevista en estudio de grabación.png');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -382,4 +382,5 @@ form .form-control {
 
 .flex-stack img {
 	padding-right: 10px;
+
 }
