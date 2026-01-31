@@ -171,7 +171,7 @@ a {
 
 /* Backgrounds */
 .bk-showcase {
-	background: url('./Entrevista en estudio de grabación.png');
+	background: url("./altura.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -384,3 +384,4 @@ form .form-control {
 	padding-right: 10px;
 
 }
+
